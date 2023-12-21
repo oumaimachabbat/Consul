@@ -56,6 +56,8 @@ Pour le gateway :
 •	Service Gateway : maintenant on va contacter les services via la gateway : 
 •	Dans chaque micro Service fonctionnel o doit créer un fichier projection :
 
+* liste des produits :
+![image](https://github.com/oumaimachabbat/TP4/assets/100364598/5d3e3037-42f2-47f5-aba0-530c0b7c3399)
 
 
 
