@@ -57,7 +57,20 @@ Pour le gateway :
 •	Dans chaque micro Service fonctionnel o doit créer un fichier projection :
 
 * liste des produits :
+========================
+  
 ![image](https://github.com/oumaimachabbat/TP4/assets/100364598/5d3e3037-42f2-47f5-aba0-530c0b7c3399)
+
+* tester la projection de produit et de customer :
+  ===================================================
+
+
+  ![image](https://github.com/oumaimachabbat/Consul/assets/100364598/171706ca-824f-47ab-9356-ef640e1baab1)
+
+
+![image](https://github.com/oumaimachabbat/Consul/assets/100364598/571bc3a7-eb4a-4264-9fef-5cb889a2049f)
+
+  
 
 
 
