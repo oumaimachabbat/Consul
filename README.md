@@ -70,6 +70,9 @@ Pour le gateway :
 
 ![image](https://github.com/oumaimachabbat/Consul/assets/100364598/571bc3a7-eb4a-4264-9fef-5cb889a2049f)
 
+
+![image](https://github.com/oumaimachabbat/Consul/assets/100364598/d66e50bf-7845-47b2-8a7d-13fa5fd3514c)
+
   
 
 
